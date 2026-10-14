@@ -1,0 +1,11 @@
+build/
+install/
+log/
+data/
+models/
+*.pt
+*.onnx
+*.mcap
+*.db3
+__pycache__/
+.venv/

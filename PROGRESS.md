@@ -1,0 +1,1 @@
+block-0, completed, 2026-10-15, Verified ROS 2 Jazzy, Gazebo Harmonic/ros_gz, Python 3.12, created AGENTS.md and PLAN.md. Ready for Block 1: Robot and world in Gazebo.
